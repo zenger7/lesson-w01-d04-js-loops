@@ -10,7 +10,13 @@ By the end of this, developers should be able to:
 - Define a while loop
 - Iterate over a range of numbers using loops
 
+
 ## Preparation
 
 1. Fork and clone this repository
 1. Create a new branch, `training`, for your work and change into it.
+
+# # JS Loops
+
+- [Slides](slides/js_loops.pdf)
+- [Exercise](exercise/directions.md)
