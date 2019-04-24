@@ -38,11 +38,6 @@ Bonus: Use a nested for loop to show the tables for every multiplier from 1 to 1
 
 Check the results of assignGrade function from the conditionals exercise for every value from 60 to 100 - so your log should show "For 89, you got a B. For 90, you got an A.", etc.
 
-## Golf
-
-Using the condition you made before in the conditionals exercise, log out the nickname of every score from 1 to 8 on a par 5 hole
-
-Bonus: Use a nested for loop to run the same piece of code, but with par changing from 3 to 5
 
 ## The Rest
 
