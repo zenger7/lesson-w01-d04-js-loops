@@ -18,5 +18,5 @@ By the end of this, developers should be able to:
 
 # # JS Loops
 
-- [Slides](slides/js_loops.pdf)
+- [Slides](slides/loops.pdf)
 - [Exercise](exercise/directions.md)
