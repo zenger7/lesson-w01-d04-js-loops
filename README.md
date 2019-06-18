@@ -16,7 +16,7 @@ By the end of this, developers should be able to:
 1. Fork and clone this repository
 1. Create a new branch, `training`, for your work and change into it.
 
-# # JS Loops
+## JS Loops
 
 - [Slides](slides/loops.pdf)
 - [Exercise](exercise/directions.md)
