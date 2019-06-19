@@ -50,9 +50,3 @@ Bonus: Use a nested for loop to show the tables for every multiplier from 1 to 1
 ## The Grade Assigner
 
 Check the results of assignGrade function from the conditionals exercise for every value from 60 to 100 - so your log should show "For 89, you got a B. For 90, you got an A.", etc.
-
-<br>
-
-## The Rest
-
-Make the rest of the programs you made in the conditional exercises use loops in some way (if possible)
